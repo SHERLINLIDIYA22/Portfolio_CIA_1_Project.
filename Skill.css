@@ -1,0 +1,31 @@
+.Skl
+{
+    height: 620px;
+    padding: 50px;
+    background: transparent;
+}
+.paps
+{
+    height: 600px;
+    width: 100%;
+}
+.cont h3
+{
+    padding: 30px;
+    font-size: 2rem;
+}
+.skil
+{
+    width: 700px;
+    height: 350px;
+    padding: 40px;
+}
+.scr
+{
+    height: 20px;
+    background-color: black;
+}
+.blk
+{    height: 20px; 
+    background-color: white;
+}

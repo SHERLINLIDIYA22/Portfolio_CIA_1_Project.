@@ -1,0 +1,57 @@
+.Cnt
+{
+    height: 620px;
+    padding: 50px;
+    background: transparent;
+}
+
+.papc
+{
+    height: 600px;
+    width: 100%;
+}
+form label,form button
+{
+    display: flex;
+}  
+  
+form {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    padding: 30px;
+  }
+  
+  form input {
+    height: 40px;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #121619;
+    background: transparent;
+}
+
+form textarea {
+    margin-top: 15px;
+    height: 70px;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #121619;
+    background: transparent;
+  }
+  input::placeholder,
+  textarea::placeholder {
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  form input:focus,
+  textarea:focus { 
+    outline: none;
+  }
+  
+  form label {
+    margin-top: 25px;
+    color: black;
+    margin-left: 127px;
+  }
